@@ -1,0 +1,27 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "MDU6SXNzdWUyMzQxOTI0NTM=",
+      "closed": true,
+      "title": "ionic serve -l chrome blank screen issue",
+      "createdAt": "2017-06-07T12:28:50Z",
+      "url": "https://github.com/ionic-team/ionic-framework/issues/11958",
+      "number": 11958,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ionic-framework",
+        "url": "https://github.com/ionic-team/ionic-framework",
+        "owner": {
+          "login": "ionic-team",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3171503?v=4",
+          "url": "https://github.com/ionic-team"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "totalCount": 1
+}
