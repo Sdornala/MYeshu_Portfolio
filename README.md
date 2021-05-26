@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-    <a href="https://Sdornala.github.io" target="_blank">
+    <a href="https://sdornala.github.io/MYeshu_Portfolio/" target="_blank">
     <img src="/Yeshu_Portfolio.png"></img>
   </a>
 </p>
