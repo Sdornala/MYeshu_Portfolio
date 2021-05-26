@@ -10,8 +10,6 @@
 </p>
 
 
-To view a live example, **[click here](https://github.com/Sdornala/MYeshu_Portfolio.git)**
-
 ## Steps to run
 
 - <code>npm install</code> in the root directory
